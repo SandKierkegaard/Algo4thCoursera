@@ -1,4 +1,4 @@
-# Algorithms 4th Sedgewick and Wayne Exercises
+# Algorithms 4th Exercises
 
 Java exercises for a certain OCW course on Algorithms. Created by [SD](https://github.com/SandKierkegaard) and compiled in Eclipse.
 
